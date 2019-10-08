@@ -1,9 +1,10 @@
 import React from 'react'
+import Heading from '../components/Heading'
 
 const Bakery = ({ pageContext }) => {
   return (
     <div>
-      <h1>{pageContext.title}</h1>
+      <Heading>{pageContext.title}</Heading>
     </div>
   )
 }
