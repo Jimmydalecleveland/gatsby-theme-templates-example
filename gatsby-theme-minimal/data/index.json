@@ -2,11 +2,13 @@
   "pages": [
     {
       "slug": "chocolate",
-      "title": "A selection of Chocolate"
+      "title": "A selection of Chocolate",
+      "subtitle": "That tickles the senses"
     },
     {
       "slug": "strawberry",
-      "title": "Strawberry Delights"
+      "title": "Strawberry Delights",
+      "subtitle": "shivering with anticipation"
     }
   ]
 }

@@ -9,6 +9,7 @@ exports.createPages = ({ actions }) => {
       component: require.resolve('./src/templates/bakery'),
       context: {
         title: page.title,
+        subtitle: page.subtitle,
       },
     })
   })
