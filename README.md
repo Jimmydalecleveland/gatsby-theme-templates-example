@@ -1,7 +1,27 @@
 # An example of shadowing issues/questions when using Gatsby Themes.
 
-run the following to start the example server
-`yarn workspace example develop`
+After cloning the repo, run the following in the cloned directory to start the example server
+```bash
+yarn && yarn workspace example develop
+```
+
+The master branch should build and run fine (see that the homepage has a striped heading with the text "Customized Homepage in a user's site". Further branch descriptions can be found below.
+
+Then checkout the not working branch and run the same develop command:
+```bash
+git checkout folder-imports-not-working
+yarn workspace example develop
+```
+
+When you reload the homepage you should see a frozen white page.
+
+Finally, check out the final workaround branch to see a working solution:
+```bash
+git checkout folder-imports-workaround
+yarn workspace example develop
+```
+
+Again, look below for further details about the branches.
 
 ## Branches
 Please check out the following branches to see the different problems and workarounds.
