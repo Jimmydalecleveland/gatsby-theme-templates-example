@@ -1,0 +1,12 @@
+{
+  "pages": [
+    {
+      "slug": "chocolate",
+      "title": "A selection of Chocolate"
+    },
+    {
+      "slug": "strawberry",
+      "title": "Strawberry Delights"
+    }
+  ]
+}
