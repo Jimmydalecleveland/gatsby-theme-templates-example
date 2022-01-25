@@ -10,9 +10,9 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^4.6.0",
-    "gatsby-theme-minimal": "^1.0.0",
     "@myscope/gatsby-theme-minimal": "^1.0.0",
+    "gatsby": "^3.13.0",
+    "gatsby-theme-minimal": "^1.0.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2"
   }
