@@ -1,6 +1,6 @@
 import React from 'react'
 import Heading from 'gatsby-theme-minimal/src/components/Heading'
-import HeadingDuplicate from 'myscope-gatsby-theme-minimal/src/components/Heading'
+import HeadingDuplicate from '@myscope/gatsby-theme-minimal/src/components/Heading'
 
 const HomePage = () => (
   <div>
