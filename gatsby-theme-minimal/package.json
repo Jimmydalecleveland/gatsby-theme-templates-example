@@ -5,6 +5,6 @@
   "author": "Jimmy Cleveland",
   "license": "MIT",
   "peerDependencies": {
-    "gatsby": "^2.6.0"
+    "gatsby": "^4.6.0"
   }
 }
